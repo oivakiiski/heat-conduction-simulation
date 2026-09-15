@@ -43,11 +43,3 @@ Although the physical system is different from vehicle performance, the
 project demonstrates my ability to model a physical system, implement a
 numerical simulation in MATLAB, analyse the resulting data and evaluate
 system behaviour.
-
-## Tools
-
-- MATLAB
-- Numerical modelling
-- Crank–Nicolson method
-- Heat-transfer modelling
-- Data visualisation
